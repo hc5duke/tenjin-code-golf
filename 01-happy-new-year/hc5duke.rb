@@ -1,1 +1,2 @@
-puts"#{"".ord}#{"".ord}"
+a='-'.ord
+p a*a
