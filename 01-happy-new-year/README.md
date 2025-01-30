@@ -25,6 +25,7 @@ $ ruby test.rb
  11 kartikmodi.apl
  15 ryan.rb
  15 hc5duke.rb
+ 18 ricky.rb
  32 hc5duke.brainfuck
  42 Diego.swift
 173 pvera.go
