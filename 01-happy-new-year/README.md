@@ -15,3 +15,17 @@ $ tr -cd '0-9' < test.rb | wc -c    # counting numbers
 $ ruby test.rb
 2025
 ```
+
+## Submissions
+
+```
+  8 bloodyludi.rb
+ 10 kartikmodi.rb
+ 10 devboy.rb
+ 11 kartikmodi.apl
+ 15 ryan.rb
+ 15 hc5duke.rb
+ 32 hc5duke.brainfuck
+ 42 Diego.swift
+173 pvera.go
+```
