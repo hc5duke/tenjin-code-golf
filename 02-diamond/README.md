@@ -7,6 +7,9 @@ Write a program that takes a number as input and prints a diamond of that height
 * You can print any character that will combine to visually form a diamond shape (e.g. `*` here)
 * Your output must be only the diamond of correct size and any necessary whitespace
 
+## Submission deadline
+Make a pull request to this repo by Thursday 2025-03-13 at 12pm ET (or share your solution at the meeting)
+
 ## Test cases
 
 ```
